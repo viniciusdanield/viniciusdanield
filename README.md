@@ -22,25 +22,22 @@
     ![Google Colab](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ## 📂 PROJETOS
+# 📂 Projetos
 
-<div align="center">
+##  🌌 SIGIC - Sistema Inteligente de Gerenciamento
 
-<a href="https://github.com/viniciusdanield/SIGIC-Sistema_Inteligente_de_Gerenciamento">
-<img width="850" src="https://opengraph.githubassets.com/1/viniciusdanield/SIGIC-Sistema_Inteligente_de_Gerenciamento"/>
-</a>
+O SIGIC é um sistema em Python que simula a gestão de uma colônia espacial, modelando sua infraestrutura como um grafo. 
 
-### 💼 SIGIC - Sistema Inteligente de Gerenciamento
+[![Ver Repositório](https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github)](https://github.com/viniciusdanield/SIGIC-Sistema_Inteligente_de_Gerenciamento)
 
-Sistema desenvolvido para centralizar e facilitar o gerenciamento de informações, aplicando conceitos de programação, organização de dados e boas práticas de desenvolvimento.
+---
 
-<br>
+## 🚀 PROJETO MISSÃO ESPACIAL - GLOBAL SOLUTION
 
-<a href="https://github.com/viniciusdanield/SIGIC-Sistema_Inteligente_de_Gerenciamento">
-<img src="https://img.shields.io/badge/🚀%20Abrir%20Projeto-181717?style=for-the-badge">
-</a>
+Sistema Inteligente de Monitoramento de Missão Espacial
+O SIMME é uma aplicação desenvolvida em Python para simular o monitoramento operacional de uma missão espacial experimental.
 
-</div>
-
+[![Ver Repositório](https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github)](https://github.com/viniciusdanield/Projeto-Missao-Espacial-GS)
 
 ## 📩 SOCIAL
 
