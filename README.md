@@ -22,7 +22,6 @@
     ![Google Colab](https://img.shields.io/badge/google_colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ## 📂 PROJETOS
-# 📂 Projetos
 
 ##  🌌 SIGIC - Sistema Inteligente de Gerenciamento
 
