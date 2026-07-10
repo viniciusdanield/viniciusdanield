@@ -23,11 +23,23 @@
 
 ## 📂 PROJETOS
 
-| Projeto | Descrição |
-|--------|----------|
-| 🚀 Projeto AURORA SIGER | Atividade Integradora, relatório operacional de pré-decolagem de um foguete |
-| 🌌 SIGIC (https://github.com/viniciusdanield/SIGIC-Sistema_Inteligente_de_Gerenciamento)| simula a gestão de uma colônia espacial, modelando sua infraestrutura como um grafo.|
-| ✈️ Calculadora de Passagens | Calcula descontos em pacotes de passagens aéreas |
+<div align="center">
+
+<a href="https://github.com/viniciusdanield/SIGIC-Sistema_Inteligente_de_Gerenciamento">
+<img width="850" src="https://opengraph.githubassets.com/1/viniciusdanield/SIGIC-Sistema_Inteligente_de_Gerenciamento"/>
+</a>
+
+### 💼 SIGIC - Sistema Inteligente de Gerenciamento
+
+Sistema desenvolvido para centralizar e facilitar o gerenciamento de informações, aplicando conceitos de programação, organização de dados e boas práticas de desenvolvimento.
+
+<br>
+
+<a href="https://github.com/viniciusdanield/SIGIC-Sistema_Inteligente_de_Gerenciamento">
+<img src="https://img.shields.io/badge/🚀%20Abrir%20Projeto-181717?style=for-the-badge">
+</a>
+
+</div>
 
 
 ## 📩 SOCIAL
