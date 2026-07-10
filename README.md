@@ -25,7 +25,7 @@
 
 ##  🌌 SIGIC - Sistema Inteligente de Gerenciamento
 
-O SIGIC é um sistema em Python que simula a gestão de uma colônia espacial, modelando sua infraestrutura como um grafo. 
+Atividade Integradora realizada pela instituição, afim de representar computacionalmente a infraestrtura de uma colônia espacial buscando otimizar o funcionamento da rede energética e operacional da base.
 
 [![Ver Repositório](https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github)](https://github.com/viniciusdanield/SIGIC-Sistema_Inteligente_de_Gerenciamento)
 
@@ -33,8 +33,8 @@ O SIGIC é um sistema em Python que simula a gestão de uma colônia espacial, m
 
 ## 🚀 PROJETO MISSÃO ESPACIAL - GLOBAL SOLUTION
 
-Sistema Inteligente de Monitoramento de Missão Espacial
-O SIMME é uma aplicação desenvolvida em Python para simular o monitoramento operacional de uma missão espacial experimental.
+Sistema Inteligente de Monitoramento de Missão Espacial. 
+O SIMME é uma aplicação desenvolvida em Python para simular o monitoramento operacional de uma missão espacial experimental. Desafio proposto com a finalidade de desenvolver soluções tecnológicas para os desafios da indústria espacial moderna. 
 
 [![Ver Repositório](https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github)](https://github.com/viniciusdanield/Projeto-Missao-Espacial-GS)
 
