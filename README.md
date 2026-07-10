@@ -25,8 +25,8 @@
 
 | Projeto | Descrição |
 |--------|----------|
-| 🚀 Projeto Aurora Siger | Atividade Integradora, relatório operacional de pré-decolagem de um foguete |
-| 💓 Verificador de BPM | Verifica se a frequência cardíaca está na faixa adequada para a idade |
+| 🚀 Projeto AURORA SIGER | Atividade Integradora, relatório operacional de pré-decolagem de um foguete |
+| 🌌 SIGIC (https://github.com/viniciusdanield/SIGIC-Sistema_Inteligente_de_Gerenciamento)| simula a gestão de uma colônia espacial, modelando sua infraestrutura como um grafo.|
 | ✈️ Calculadora de Passagens | Calcula descontos em pacotes de passagens aéreas |
 
 
